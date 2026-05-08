@@ -10,8 +10,5 @@ HOSTILE AUDIO: The sound is raw, high-volume math. Lower your speakers before ex
 
 SYSTEM HIJACK: Once active, "phantom" inputs will take over. The screen will be unusable until the payload finishes. SAVE ALL WORK FIRST.
 
-📂 THE REPO
-Inside, you'll find different versions of system corruption—from recursive screen tunneling and ghost cursors to total bitwise destruction of the display buffer.
-
 No files are deleted. No data is stolen. Just pure chaos.
 NOTE: These gdi's are safe , if your antivirus flags them , dont worry these are not dangerous
